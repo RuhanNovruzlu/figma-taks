@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: #000;
+    font-family: SF Pro Text;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.96px;
+}
+
+button {
+    background: #000;
+    color: #FFF;
+    text-align: center;
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.16px;
+    display: flex;
+    padding: 4px 4px 4px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.div-1 {
+    display: flex;
+    padding: 80px 120px 24px 120px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.img-1 {
+    background-color: white;
+}
+
+h2 {
+    color: #000;
+    font-family: SF Pro Text;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -0.8px;
+}
+
+.div-2 {
+    margin-top: 56px;
+    padding: 0px 120px;
+    justify-content: space-between;
+    display: inline-flex;
+    padding-bottom: 80px;
+    align-items: center;
+    gap: 56px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    align-items: flex-start;
+    gap: 64px;
+}
+
+li {
+    width: 199px;
+    color: #000;
+    font-family: SF Pro Text;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h3 {
+    color: #000;
+    font-family: SF Pro Text;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+p {
+    color: #000;
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+div {
+    gap: 56px;
+}
+
+.div-3 {
+    border-bottom: 1px solid black;
+    display: flex;
+    padding: 0px 120px 56px;
+    align-items: center;
+}
+
+img {
+    width: 24px;
+    height: 24px;
+}
+
+h4 {
+    color: #000;
+    text-align: center;
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+h5 {
+    color: #000;
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.div-4 {
+    display: flex;
+    padding: 56px 120px 0px;
+    align-items: center;
+}
+
+.div-5 {
+    display: flex;
+    padding-left: 530px;
+    align-items: center;
+}
+
+.div-6 {
+    margin-left: 500px;
+    display: flex;
+    align-items: center;
+}
